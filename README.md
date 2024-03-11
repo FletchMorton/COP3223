@@ -1,1 +1,1 @@
-# COP3223
+# COP3223 Intro to C
