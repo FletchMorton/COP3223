@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645476575 source:c:\users\morto\documents\code\c\projects\project 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

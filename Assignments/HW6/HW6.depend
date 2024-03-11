@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648015982 source:c:\users\morto\documents\code\c\hw\hw6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644272132 source:c:\users\morto\documents\code\c\hw\hw4\main.c
+	<stdio.h>
+	<stdlib.h>
+
